@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "a module project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megparlmer/jest-another-RPG.git"
+  },
+  "author": "megparlmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megparlmer/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/megparlmer/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
